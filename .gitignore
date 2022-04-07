@@ -1,0 +1,18 @@
+# Project exclude paths
+/project/project/target/
+/project/target/
+/target/
+/target/scala-2.13/classes/
+/target/scala-2.13/test-classes/
+
+.bloop
+.metals
+.vscode
+.idea
+.bsp
+*.private.env.json
+.env
+.jvmopts
+kube.conf
+
+.DS_Store
